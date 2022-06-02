@@ -9,7 +9,12 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd707deb-7c76-405b-95d1-1c80144831f5" name="Changes" comment="Initial commit" />
+    <list default="true" id="bd707deb-7c76-405b-95d1-1c80144831f5" name="Changes" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/character_list_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/character_list_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,9 +39,6 @@
   </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="5d041662-5235-4bcf-b3c7-b471c14894f6" />
-  </component>
-  <component name="ProblemsViewState">
-    <option name="selectedIndex" value="1" />
   </component>
   <component name="ProjectId" id="29rXyV9jj8oqqdAZPVlE4abrp6K" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
